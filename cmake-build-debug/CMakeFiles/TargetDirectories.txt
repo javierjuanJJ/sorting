@@ -1,3 +1,6 @@
+E:/Material/Laboral/C++/sorting/cmake-build-debug/CMakeFiles/sorting2.dir
+E:/Material/Laboral/C++/sorting/cmake-build-debug/CMakeFiles/sorting3.dir
+E:/Material/Laboral/C++/sorting/cmake-build-debug/CMakeFiles/sorting4.dir
 E:/Material/Laboral/C++/sorting/cmake-build-debug/CMakeFiles/sorting.dir
 E:/Material/Laboral/C++/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/Material/Laboral/C++/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
