@@ -1,4 +1,5 @@
 # ninja log v5
+3	408	6981536475704796	CMakeFiles/sorting5.dir/insertSort/main.cpp.obj	ad3cf4cab5a7d27e
 0	391	6979800735310488	CMakeFiles/sorting.dir/main.cpp.obj	6638c879f7787f
 391	446	6979800735841912	sorting.exe	b7f625a160e56179
 343	396	6979809314298864	sorting2.exe	9081fd2ba23c9c69
@@ -8,10 +9,14 @@
 657	731	6980670309076270	sorting3.exe	6acf26502f20866b
 2	365	6980680930492764	CMakeFiles/sorting4.dir/bubbleSort/main.cpp.obj	897645793aaf01d6
 365	418	6980680931003852	sorting4.exe	99fcbb72dc107126
-1	1873	6981533131771463	CMakeFiles/sorting5.dir/insertSort/main.cpp.obj	ad3cf4cab5a7d27e
-3	377	6981533875683900	CMakeFiles/sorting5.dir/insertSort/main.cpp.obj	ad3cf4cab5a7d27e
-377	435	6981533876245418	sorting5.exe	1fbeb8bbea07ee49
-2	463	6981535103453529	CMakeFiles/sorting5.dir/insertSort/main.cpp.obj	ad3cf4cab5a7d27e
-463	522	6981535104025049	sorting5.exe	1fbeb8bbea07ee49
-3	408	6981536475704796	CMakeFiles/sorting5.dir/insertSort/main.cpp.obj	ad3cf4cab5a7d27e
 408	471	6981536476296361	sorting5.exe	1fbeb8bbea07ee49
+0	1850	6982407651616509	CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj	45339b70f7c9659c
+1850	2814	6982407661212339	sorting6.exe	c8fafbd6f4ae7f3
+4	546	6982408187812248	CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj	45339b70f7c9659c
+547	612	6982408188453952	sorting6.exe	c8fafbd6f4ae7f3
+3	352	6982408785196212	CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj	45339b70f7c9659c
+353	408	6982408785717593	sorting6.exe	c8fafbd6f4ae7f3
+2	345	6982409982075305	CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj	45339b70f7c9659c
+345	397	6982409982576638	sorting6.exe	c8fafbd6f4ae7f3
+2	358	6982410867886067	CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj	45339b70f7c9659c
+358	413	6982410868407778	sorting6.exe	c8fafbd6f4ae7f3

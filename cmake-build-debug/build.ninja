@@ -205,6 +205,39 @@ build sorting.exe: CXX_EXECUTABLE_LINKER__sorting_Debug CMakeFiles/sorting.dir/m
   TARGET_IMPLIB = libsorting.dll.a
   TARGET_PDB = sorting.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target sorting6
+
+
+#############################################
+# Order-only phony target for sorting6
+
+build cmake_object_order_depends_target_sorting6: phony || CMakeFiles/sorting6.dir
+
+build CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj: CXX_COMPILER__sorting6_Debug E$:/Material/Laboral/C++/sorting/mergeSort/main.cpp || cmake_object_order_depends_target_sorting6
+  DEP_FILE = CMakeFiles\sorting6.dir\mergeSort\main.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sorting6.dir
+  OBJECT_FILE_DIR = CMakeFiles\sorting6.dir\mergeSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sorting6
+
+
+#############################################
+# Link the executable sorting6.exe
+
+build sorting6.exe: CXX_EXECUTABLE_LINKER__sorting6_Debug CMakeFiles/sorting6.dir/mergeSort/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sorting6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sorting6.exe
+  TARGET_IMPLIB = libsorting6.dll.a
+  TARGET_PDB = sorting6.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -241,6 +274,8 @@ build sorting4: phony sorting4.exe
 
 build sorting5: phony sorting5.exe
 
+build sorting6: phony sorting6.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -249,7 +284,7 @@ build sorting5: phony sorting5.exe
 #############################################
 # Folder: E:/Material/Laboral/C++/sorting/cmake-build-debug
 
-build all: phony sorting2.exe sorting3.exe sorting4.exe sorting5.exe sorting.exe
+build all: phony sorting2.exe sorting3.exe sorting4.exe sorting5.exe sorting.exe sorting6.exe
 
 # =============================================================================
 # Built-in targets

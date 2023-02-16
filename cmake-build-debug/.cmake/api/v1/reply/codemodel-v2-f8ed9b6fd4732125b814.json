@@ -19,7 +19,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -38,7 +39,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -77,6 +79,13 @@
 					"id" : "sorting5::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-sorting5-Debug-356e3ec0125b90ef2fbb.json",
 					"name" : "sorting5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting6-Debug-482d9e588053bca62adf.json",
+					"name" : "sorting6",
 					"projectIndex" : 0
 				}
 			]
